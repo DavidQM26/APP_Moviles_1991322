@@ -1,0 +1,7 @@
+{
+  "name": "PracticaHolaMundo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
